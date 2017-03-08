@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'beyond_mountains';
+    src: url('../fonts/beyond_the_mountains-webfont.woff2') format('woff2'),
+         url('../fonts/beyond_the_mountains-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.beyond-mountains {
+  bottom: 480px;
+  color: white;
+  font-family: 'beyond_mountains';
+  font-size: 98px;
+	text-align: center;
+	position: relative;
+}
